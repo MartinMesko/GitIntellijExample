@@ -4,7 +4,7 @@ public class Main {
         //This is comment
         System.out.println("Hello world");
 
-        System.out.println("Hi everybody" );
+        System.out.println("Hi everybody");
     }
 
 }
